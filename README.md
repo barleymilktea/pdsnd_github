@@ -1,5 +1,5 @@
 ### Date created
-Project created 6/4/2020, updated 6/7/2020
+Project created 6/4/2020, updated 6/7/2020...
 
 ### Project Title
 Bikesharing in Chicago, Washington, New York City
